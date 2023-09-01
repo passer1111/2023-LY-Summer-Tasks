@@ -1,0 +1,3 @@
+G:/lyklbw/cs/rm/learn/Clion/task1/cmake-build-debug/CMakeFiles/clion_opencv.dir
+G:/lyklbw/cs/rm/learn/Clion/task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/lyklbw/cs/rm/learn/Clion/task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
