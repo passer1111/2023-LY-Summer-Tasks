@@ -1,0 +1,9 @@
+train: E:/yolov8Project/datasets/labels/train.txt
+val: E:/yolov8Project/datasets/labels/val.txt
+test: E:/yolov8Project/datasetss/labels/val.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['people']
