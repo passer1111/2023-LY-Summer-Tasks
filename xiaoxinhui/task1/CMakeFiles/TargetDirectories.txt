@@ -1,0 +1,3 @@
+/home/ckkj/桌面/workspace/practice/CMakeFiles/main.dir
+/home/ckkj/桌面/workspace/practice/CMakeFiles/edit_cache.dir
+/home/ckkj/桌面/workspace/practice/CMakeFiles/rebuild_cache.dir
