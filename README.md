@@ -27,7 +27,15 @@ https://github.com/HUST2022-Learner/2023-LY-Summer-Tasks.git
 
 #### 第三部，上传自己的任务到仓库中
 
-如果出现上传不成功的示例，可能是因为没有绑定github账户等原因，自行百度
+如果出现上传不成功的示例，可能是因为没有绑定github账户等原因，自行百度，也可参考如下内容：
+
+[git commit 命令 | 菜鸟教程 (runoob.com)](https://www.runoob.com/git/git-commit.html)
+
+```shell
+git add *
+git commit -s -m "xxx"
+git push origin main
+```
 
 参考如下示例：
 
